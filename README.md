@@ -21,3 +21,8 @@ This extension is browser-native and automatic, allowing seamless conversion of:
 - **Microsoft Edge**: 
 - **Brave**: 
 - **Opera**:
+
+## Future Plans
+- **Making it work with just copying the link**
+- **Adding Support for more Formats Conversions while keeping it native**
+  
